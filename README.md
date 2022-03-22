@@ -1,1 +1,1 @@
-# odin-recipes
+Minimalist introductory website creation following alongside The Odin Project instructions
